@@ -1,0 +1,19 @@
+.a {
+    text-align: center;
+}
+
+
+
+table {
+    width: 100%; /* Anchura de la tabla */
+    background-color: white; /* Color de fondo azul oscuro */
+    color: #1e3d59; /* Color del texto */
+}
+
+.ancho-azul th,
+.ancho-azul td {
+    padding: 10px; /* Espaciado interno de las celdas */
+    text-align: center; /* Alineación del texto en el centro */
+    border: 1px solid white; /* Borde de las celdas */
+}
+
